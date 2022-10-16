@@ -10,3 +10,6 @@ tout information par rapport a nos donnees ansi que que le type d'affichage qui 
 
 
 Et apres telecharge le fichier nous avons...
+
+
+<img width="1792" alt="image2" src="https://user-images.githubusercontent.com/56389559/196042377-326c58f5-016a-43b1-9744-b75eeb6c9fba.png">
